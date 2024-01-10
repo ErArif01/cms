@@ -1,4 +1,4 @@
-// script.js
+// script.js.
 
 $(document).ready(function () {
     function loadContent(page) {
